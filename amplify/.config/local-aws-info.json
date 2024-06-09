@@ -1,0 +1,7 @@
+{
+  "capstone": {
+    "configLevel": "project",
+    "useProfile": true,
+    "profileName": "Jason"
+  }
+}

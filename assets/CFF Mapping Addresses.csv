@@ -1,0 +1,39 @@
+Recipient First,Recipient Last,Address,City,ZIP,State,Wireless,Deliverer,Schedule,Delivery Schedule Legend,Lat,Long,ConfirmationOfDelivery,Date Day,Date Month,Date Year
+Coleen,Davids,2963 Windsor Avenue,Willow Grove,19090,PA,215-123-4562,Allen,1,1 = First & Third Friday Deliveries,40.1466332,-75.1347364,FALSE,21,4,2023
+Alvin,Champer,1737 Summit Avenue,Willow Grove,19090,PA,215-123-4565,David,2,2 = Second & Fourth Friday Deliveries,40.1361074,-75.1204733,TRUE,14,4,2023
+Maureen,Dahl,1717 Crestview Avenue,Willow Grove,19090,PA,215-123-4566,David,2,3 = Monthly Delivery First Monday,40.1442661,-75.1359379,FALSE,14,4,2023
+Yolanda,Jones,1822 Smith Avenue,Willow Grove,19090,PA,215-123-4567,Allen,4,4 = Monthly Delivery Third Wednesday,40.1466183,-75.132921,TRUE,19,4,2023
+Bill,Allens,2233 Rubicam Avenue,Willow Grove,19090,PA,215-123-4568,Betty,1,,40.134206,-75.1197797,FALSE,21,4,2023
+Jane,Bell,2048 Rubicam Avenue,Willow Grove,19090,PA,215-123-4569,Betty,2,,40.1336187,-75.119537,TRUE,14,4,2023
+Michael,Boyle,2750 Phipps Avenue,Willow Grove,19090,PA,215-123-4571,Allen,1,,40.1394074,-75.1349543,FALSE,21,4,2023
+Valerie,Boyle,1429 N Hills Avenue,Willow Grove,19090,PA,215-123-4575,Betty,1,,40.1400692,-75.1439808,TRUE,21,4,2023
+Robert,Adams,2814 W Moreland Road,Willow Grove,19090,PA,215-123-4576,Charles,2,,40.1469738,-75.1276687,FALSE,14,4,2023
+Gary,Juel,2830 Lamott Avenue,Willow Grove,19090,PA,215-123-4579,David,1,,40.1413873,-75.1365477,TRUE,21,4,2023
+Albert,Williams,2955 Elliott Avenue,Willow Grove,19090,PA,215-123-4580,Charles,2,,40.1444934,-75.1374424,FALSE,14,4,2023
+Maureen,Amerst,1815 Kimball Avenue,Willow Grove,19090,PA,215-123-4581,David,3,,40.1471506,-75.134679,TRUE,3,4,2023
+Valerie,Brught,1715 Jill Road,Willow Grove,19090,PA,215-123-4582,Charles,2,,40.1466544,-75.1399131,FALSE,14,4,2023
+Diana,Gellert,2934 Goentner Road,Willow Grove,19090,PA,215-123-4589,David,3,,40.1484547,-75.132096,TRUE,3,4,2023
+Valerie,Seymour,2915 Gohn Drive,Willow Grove,19090,PA,215-123-4590,Betty,4,,40.1463096,-75.1322466,FALSE,19,4,2023
+John,Cohen,2956 Gohn Drive,Willow Grove,19090,PA,215-123-4591,Charles,1,,40.1468302,-75.1342034,TRUE,21,4,2023
+Carroll,Henry,2950 Oklahoma Road,Willow Grove,19090,PA,215-123-4592,Allen,1,,40.1481524,-75.133229,FALSE,21,4,2023
+William,Franklin,1430 Fitzwatertown Road,Willow Grove,19090,PA,215-123-4593,Allen,3,,40.1398242,-75.1436622,TRUE,3,4,2023
+Gary,Panzeter,123 Woodlyn Avenue,Willow Grove,19090,PA,215-123-4594,Betty,4,,40.1489458,-75.1406409,FALSE,19,4,2023
+Valerie,Carr,2936 Elliott Avenue,Willow Grove,19090,PA,215-123-4597,Allen,3,,40.1437337,-75.1371033,TRUE,3,4,2023
+Glen,Corley,902 Penn Avenue,Glenside,19038,PA,215-123-4572,David,2,,40.1481524,-75.133229,FALSE,14,4,2023
+Coleen,Kenna,844 Maple Avenue,Glenside,19038,PA,215-123-4577,Allen,1,,40.1231779,-75.152619,TRUE,21,4,2023
+William,Carr,502 Maple Avenue,Glenside,19038,PA,215-123-4578,David,3,,40.1165622,-75.159378,FALSE,3,4,2023
+Kevin,King,766 Jackson Avenue,Glenside,19038,PA,215-123-4583,Betty,1,,40.119537,-75.1512869,TRUE,21,4,2023
+Charles,Carroll,306 Montier Road,Glenside,19038,PA,215-123-4585,David,2,,40.1013371,-75.158771,FALSE,14,4,2023
+Michael,Kendricks,678 Harrison Avenue,Glenside,19038,PA,215-123-4586,Allen,2,,40.1178713,-75.1541027,TRUE,14,4,2023
+Gary,Fisher,614 Harrison Avenue,Glenside,19038,PA,215-123-4587,Betty,3,,40.1161575,-75.1558979,FALSE,3,4,2023
+Alvin,Negley,891 Fernhill Road,Glenside,19038,PA,215-123-4595,Betty,2,,40.1167981,-75.1390235,TRUE,14,4,2023
+Kevin,Jasper,414 Edge Hill Road,Glenside,19038,PA,215-123-4598,David,2,,40.1120769,-75.1563177,FALSE,14,4,2023
+Jane,Williams,949 Cricket Avenue,Glenside,19038,PA,215-123-4599,Betty,3,,40.1252345,-75.1512332,TRUE,3,4,2023
+Gary,Cooper,928 Willow Avenue,Elkins Park,19027,PA,215-123-4564,Charles,1,,40.08563,-75.11153,FALSE,21,4,2023
+Alan,Bell,232 Oswald Street,Elkins Park,19027,PA,215-123-4573,Betty,2,,40.0742606,-75.0986123,TRUE,14,4,2023
+William,Nesbit,1129 Wilson Avenue,Abington,19001,PA,215-123-4563,Betty,4,,40.13221,-75.14947,FALSE,19,4,2023
+Charles,Smith,1571 Reservoir Avenue,Abington,19001,PA,215-123-4570,Charles,1,,40.1346415,-75.1287499,TRUE,21,4,2023
+David,King,2449 Norwood Avenue,Abington,19001,PA,215-123-4574,Charles,2,,40.1273884,-75.1335833,FALSE,14,4,2023
+Jane,Boyle,2450 Independence Avenue,Abington,19001,PA,215-123-4584,Charles,3,,40.1261031,-75.1349307,TRUE,3,4,2023
+Alan,Morgan,2952 Hammond Place,Abington,19001,PA,215-123-4588,Betty,1,,40.1318015,-75.1496588,FALSE,21,4,2023
+Melinda,Runge,1739 Ferndale Avenue,Abington,19001,PA,215-123-4596,Charles,4,,40.1330122,-75.1164086,TRUE,19,4,2023

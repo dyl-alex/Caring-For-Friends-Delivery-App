@@ -1,0 +1,59 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "",
+      "UnauthRoleArn": "",
+      "AuthRoleArn": "",
+      "Region": "",
+      "DeploymentBucketName": "",
+      "UnauthRoleName": "",
+      "StackName": "",
+      "StackId": "",
+      "AmplifyAppId": ""
+    }
+  },
+  "auth": {
+    "finalcapstoneproject85fa104f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "frontendAuthConfig": {
+        "socialProviders": [],
+        "usernameAttributes": [
+          "EMAIL",
+          "PHONE_NUMBER"
+        ],
+        "signupAttributes": [
+          "EMAIL"
+        ],
+        "passwordProtectionSettings": {
+          "passwordPolicyMinLength": 8,
+          "passwordPolicyCharacters": []
+        },
+        "mfaConfiguration": "OFF",
+        "mfaTypes": [
+          "SMS"
+        ],
+        "verificationMechanisms": [
+          "EMAIL"
+        ]
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "",
+        "logicalId": ""
+      },
+      "lastPushTimeStamp": "2023-10-15T16:23:30.623Z",
+      "output": {
+        "UserPoolId": "",
+        "AppClientIDWeb": "",
+        "AppClientID": "",
+        "IdentityPoolId": "",
+        "UserPoolArn": "",
+        "IdentityPoolName": "",
+        "UserPoolName": ""
+      },
+      "lastPushDirHash": "="
+    }
+  }
+}

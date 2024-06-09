@@ -1,0 +1,20 @@
+{
+  "capstone": {
+    "awscloudformation": {
+      "AuthRoleName": "",
+      "UnauthRoleArn": "",
+      "AuthRoleArn": "",
+      "Region": "",
+      "DeploymentBucketName": "",
+      "UnauthRoleName": "",
+      "StackName": "",
+      "StackId": "",
+      "AmplifyAppId": ""
+    },
+    "categories": {
+      "auth": {
+        "finalcapstoneproject85fa104f": {}
+      }
+    }
+  }
+}
